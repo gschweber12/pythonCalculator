@@ -18,7 +18,7 @@ def multiplication(a, b):
 def division(a, b):
     a = float(a)
     b = float(b)
-    return b / a
+    return round(b / a, 9)
 
 def squared(a):
     a = int(a)
