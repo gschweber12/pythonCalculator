@@ -26,7 +26,7 @@ def squared(a):
 
 def squarerooted(a):
     a = float(a)
-    return math.sqrt(a)
+    return round(math.sqrt(a), 7)
 
 class Calculator:
     result = 0
