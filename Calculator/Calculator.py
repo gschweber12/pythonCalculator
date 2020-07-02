@@ -1,26 +1,15 @@
-import math
 from Calculator.Addition import addition
 from Calculator.Subtraction import subtraction
+from Calculator.Multiplication import multiplication
+from Calculator.Division import division
+from Calculator.Squared import squared
+from Calculator.Squareroot import squarerooted
 
 
 
-def multiplication(a, b):
-    a = int(a)
-    b = int(b)
-    return a * b
 
-def division(a, b):
-    a = float(a)
-    b = float(b)
-    return round(b / a, 9)
 
-def squared(a):
-    a = int(a)
-    return a * a
 
-def squarerooted(a):
-    a = float(a)
-    return round(math.sqrt(a), 7)
 
 class Calculator:
     result = 0
