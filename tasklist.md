@@ -9,5 +9,5 @@
 7. Variance:  
 8. Standard Deviation:  
 9. Z-score:  
-10: Random Generator:  
-11: Population Sampling:  
+10. Random Generator:  
+11. Population Sampling:  
