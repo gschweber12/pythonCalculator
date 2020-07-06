@@ -3,6 +3,6 @@ from Statistics.Mean import mean
 
 class Statistics(Calculator):
 
-    def mean(self, data):
-        self.result = mean(data)
+    def mean(self):
+        self.result = mean(self.data)
         return self.result

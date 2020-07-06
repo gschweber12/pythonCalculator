@@ -6,11 +6,6 @@ from Calculator.Squared import squared
 from Calculator.Squareroot import squarerooted
 
 
-
-
-
-
-
 class Calculator:
     result = 0
 
