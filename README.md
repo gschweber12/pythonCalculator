@@ -6,13 +6,13 @@
 | ToDo                | In Progress | Review | Done |
 |---------------------|-------------|--------|------|
 | Value Check         |             |        |      |
-| Zero exception      |             |        |      |
+| Zero exception      |    Grant    |        |      |
 | Empty exception     |             |        |      |
 | Mean                |    Grant    |        |      |
-| Median              |             |        |      |
+| Median              |    Grant    |        |      |
 | Mode                |             |        |      |
 | Variance            |             |        |      |
-| Standard Deviation  |             |        |      |
-| Z-score             |             |        |      |
-| Random Generator    |             |        |      |
+| Standard Deviation  |    Grant    |        |      |
+| Z-score             |    Grant    |        |      |
+| Random Generator    |    Grant    |        |      |
 | Population Sampling |             |        |      |
