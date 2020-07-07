@@ -1,7 +1,7 @@
 # pythonCalculator
 
 **Diagram Link:** [Diagram](/diagram.md)  
-**Task List:** [Task List](/tasklist)
+**Task List:** [Task List](/tasklist.md)
 
 | ToDo                | In Progress | Review | Done |
 |---------------------|-------------|--------|------|
