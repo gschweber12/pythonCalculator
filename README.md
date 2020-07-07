@@ -6,9 +6,9 @@
 | ToDo                | In Progress | Review | Done |
 |---------------------|-------------|--------|------|
 | Value Check         |             |        |      |
-| Zero exception      |    Grant    |        |      |
+| Zero exception      |    Grant    |Grant   |Grant |
 | Empty exception     |             |        |      |
-| Mean                |    Grant    |        |      |
+| Mean                |    Grant    |Grant   |      |
 | Median              |    Grant    |        |      |
 | Mode                |             |        |      |
 | Variance            |             |        |      |
