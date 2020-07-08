@@ -10,7 +10,7 @@
 | Empty exception     |             |        |      |
 | Mean                |    Grant    |Grant   |      |
 | Median              |    Grant    |        |      |
-| Mode                |             |        |      |
+| Mode                |    Mo       |Mo      |      |
 | Variance            |             |        |      |
 | Standard Deviation  |    Grant    |        |      |
 | Z-score             |    Grant    |        |      |
