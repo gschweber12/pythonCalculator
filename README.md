@@ -12,9 +12,9 @@ pythonCalculator
 | Empty exception     |             |        |      |
 | Mean                |    Grant    |Grant   |      |
 | Median              |    Grant    |        |      |
-| Mode                |    Mo       |Mo      |      |
+| Mode                |    Mo       |Mo      |Mo    |
 | Variance            |    Mo       |        |      |
 | Standard Deviation  |    Grant    |Grant   |      |
 | Z-score             |    Grant    |Grant   |      |
-| Random Generator    |    Mo       |Mo      |      |
+| Random Generator    |    Mo       |Mo      |Mo    |
 | Population Sampling |             |        |      |
