@@ -1,4 +1,6 @@
-# pythonCalculator
+[![Build Status](https://travis-ci.com/gschweber12/pythonCalculator.svg?branch=master)](https://travis-ci.com/gschweber12/pythonCalculator)
+
+pythonCalculator
 
 **Diagram Link:** [Diagram](/diagram.md)  
 **Task List:** [Task List](/tasklist.md)
