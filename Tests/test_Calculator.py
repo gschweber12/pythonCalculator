@@ -15,7 +15,7 @@ class MyTestCase(unittest.TestCase):
         self.assertEqual(self.calculator.result, 0)
 
     def test_divide_zero(self):
-        self.assertEqual(self.calculator.divide(0,4), "Division by zero)
+        self.assertEqual(self.calculator.divide(0,4), "Division by zero")
 
     def test_add_method_calculator(self):
         test_data = CsvReader('Tests/Data/Unit_Test_Addition.csv').data
