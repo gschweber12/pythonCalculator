@@ -22,6 +22,7 @@
         1. Addition
             1. Methods
                 1. Addition - adds two numbers
+                2. Sum - adds multiple numbers together
         2. Subtraction
             1. Methods
                 1. Subtraction - subtracts one number from another
