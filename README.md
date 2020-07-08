@@ -12,7 +12,7 @@
 | Median              |    Grant    |        |      |
 | Mode                |    Mo       |Mo      |      |
 | Variance            |             |        |      |
-| Standard Deviation  |    Grant    |        |      |
-| Z-score             |    Grant    |        |      |
-| Random Generator    |    Grant    |        |      |
+| Standard Deviation  |    Grant    | Grant     |      |
+| Z-score             |    Grant    |    Grant    |      |
+| Random Generator    |    Grant    |       |      |
 | Population Sampling |             |        |      |
