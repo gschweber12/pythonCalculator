@@ -35,6 +35,31 @@
         5. Squared
             1. Methods
                 1. Squared - squares a number
-        6. Squareroot
+       6. Squareroot
             1. Methods
                 1. Squarerooted - finds the squareroot of a number
+                
+2. Statistics Calcultor                
+          1. Methods  
+                 1. Mean - Calls Mean static method from statistic operations  
+                 2. sample mean - Calls sample mean static method from statisitc operations  
+                3. median - Calls median static method from statistic operations  
+                4. mode - Calls mode static method from statistic operations  
+                5. variance - Calls variance static method from statistic operations  
+                6. standard deviation - Calls standard deviation static method from statistic operations  
+                7. z score - Calls z score static method from statistic operations  
+                8. Random Generator - Calls random generator static method from statistic operations                 
+                9. Population Sampling - Calls population sampling static method from statistic operations  
+       2. Statistics operations Static Class  
+              1. Mean - Calls mean class method  
+              2. Sample mean - Calls sample mean class method  
+              3. Median - Calls median class method  
+              4. Mode - Calls mode class method  
+              5. Variance - Calls variance class method
+              6. Standard deviation - Calls standard deviation class method
+              7. z score - Calls z score class method
+              8. Random Generator - Calls random generator class method
+              9. Population Sampling - Calls population sampling class method
+      3. Operations class(s)  
+               1. 
+            
