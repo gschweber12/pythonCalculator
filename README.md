@@ -13,7 +13,7 @@ pythonCalculator
 | Mean                |    Grant    |Grant   |      |
 | Median              |    Grant    |        |      |
 | Mode                |    Mo       |Mo      |Mo    |
-| Variance            |    Mo       |        |      |
+| Variance            |    Mo       |Mo      |Mo    |
 | Standard Deviation  |    Grant    |Grant   |      |
 | Z-score             |    Grant    |Grant   |      |
 | Random Generator    |    Mo       |Mo      |Mo    |
