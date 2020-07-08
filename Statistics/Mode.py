@@ -1,7 +1,7 @@
 def mode(data):
-    countNum = dict()
+    count_num = dict()
     for num in data:
-        if num not in countNum:
-            countNum[num] = 1
+        if num not in count_num:
+            count_num[num] = 1
         else:
-            countNum[num] += 1
+            count_num[num] += 1
