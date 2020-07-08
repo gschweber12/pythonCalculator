@@ -4,4 +4,4 @@ def division(a, b):
         b = float(b)
         return round(b / a, 9)
     except ZeroDivisionError:
-        print("Division by zero")
+        return "Division by zero"
