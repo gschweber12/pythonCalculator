@@ -10,11 +10,11 @@ pythonCalculator
 | Value Check         |             |        |      |
 | Zero exception      |    Grant    |Grant   |Grant |
 | Empty exception     |             |        |      |
-| Mean                |    Grant    |Grant   |      |
-| Median              |    Grant    |        |      |
+| Mean                |    Grant    |Grant   |  Grant  |
+| Median              |    Grant    |    Grant    |  Grant    |
 | Mode                |    Mo       |Mo      |Mo    |
 | Variance            |    Mo       |Mo      |Mo    |
-| Standard Deviation  |    Grant    |Grant   |      |
-| Z-score             |    Grant    |Grant   |      |
+| Standard Deviation  |    Grant    |Grant   |    Grant  |
+| Z-score             |    Grant    |Grant   |   Grant   |
 | Random Generator    |    Mo       |Mo      |Mo    |
 | Population Sampling |             |        |      |
