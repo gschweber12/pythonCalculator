@@ -5,6 +5,8 @@ from Statistics.Median import median
 from Statistics.StandardDeviation import standard_deviation
 from Statistics.Zscore import z_score
 from Statistics.Mode import mode
+from Statistics.Variance import variance
+from Statistics.Random import random
 
 class Statistics(Calculator):
 
@@ -31,4 +33,11 @@ class Statistics(Calculator):
     def z_score(self, score):
         self.result = z_score( score, self.data)
         return self.result
-
+    
+    def variance(self):
+        self.result = variance(self.data)
+        return self.result
+    
+    def random(self):
+        self.result = random(self.data)
+        return self.result
