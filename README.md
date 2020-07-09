@@ -1,6 +1,9 @@
 [![Build Status](https://travis-ci.com/gschweber12/pythonCalculator.svg?branch=master)](https://travis-ci.com/gschweber12/pythonCalculator)
 
-pythonCalculator
+Statistics Calculator  
+
+Grant Schweber  
+Mohamed Shabarek  
 
 **Diagram Link:** [Diagram](/diagram.md)  
 **Task List:** [Task List](/tasklist.md)
