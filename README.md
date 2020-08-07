@@ -21,3 +21,5 @@ Mohamed Shabarek
 | Z-score             |    Grant    |Grant   |   Grant   |
 | Random Generator    |    Mo       |Mo      |Mo    |
 | Population Sampling |             |        |      |
+
+| API endpoints       |    Mo       |Mo      |Mo    |
