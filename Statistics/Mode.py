@@ -5,3 +5,4 @@ def mode(data):
             count_num[num] = 1
         else:
             count_num[num] += 1
+    return mode
